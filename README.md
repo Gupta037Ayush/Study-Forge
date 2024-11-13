@@ -37,7 +37,7 @@ This repository contains the codebase for a fully functional EdTech platform bui
 
 ## Tech Stack
 
-- **Frontend**: React.js, Bootstrap (for UI components)
+- **Frontend**: React.js, Tailwind CSS (for UI components)
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB
 - **Payment Gateway**: Razorpay API
